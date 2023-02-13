@@ -5,9 +5,9 @@
 
 ___
 
+- [Stack](#stack)
 - [Database](#database)
 - [UML](#uml)
-- [Stack](#stack)
 - [Getting Started](#getting-started)
 - [API List](#api-list)
 - [구현](#구현)
@@ -48,6 +48,14 @@ ___
     - [구현 - 각 메뉴별 상태 변경](#구현---각-메뉴별-상태-변경)
   - [Contact](#contact)
 
+# Stack
+___
+
+- go
+- gin-gonic
+- swagger
+- mongoDB
+
 # Database
 
 ![Project 3 (1)](https://user-images.githubusercontent.com/20445415/210943436-107dbc57-9527-4753-aefb-e93d32a6b9a9.png)
@@ -59,14 +67,7 @@ ___
 ![KakaoTalk_Photo_2022-12-25-16-52-30](https://user-images.githubusercontent.com/20445415/209460826-6179ab57-d72e-4b59-a465-aff9768bf82f.png)
 
 
-# Stack
 
-___
-
-- go
-- gin-gonic
-- swagger
-- mongoDB
 
 # Getting Started
 
